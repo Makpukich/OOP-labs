@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic CMakeFiles/laba1_tests.dir/tests/test_laba1.cpp.o CMakeFiles/laba1_tests.dir/src/func.cpp.o -o laba1_tests  lib/libgtest_main.a lib/libgtest.a 

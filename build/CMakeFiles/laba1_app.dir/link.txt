@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wextra -Wpedantic CMakeFiles/laba1_app.dir/src/main.cpp.o CMakeFiles/laba1_app.dir/src/func.cpp.o -o laba1_app 
